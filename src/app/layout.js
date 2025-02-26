@@ -1,5 +1,5 @@
 import { Inter } from "next/font/google"
-import { ThemeProvider } from "@/components/theme-provider"
+import { ThemeProvider } from "../components/Theme-provider"
 import "./globals.css"
 import { Toaster } from "react-hot-toast"
 
