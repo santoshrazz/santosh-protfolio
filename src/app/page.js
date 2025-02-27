@@ -1,8 +1,8 @@
 import Navbar from "@/components/navbar"
 import Hero from "@/components/Hero"
-import Technology from "@/components/technology"
-import Projects from "@/components/projects"
-import Contact from "@/components/contact"
+import Technology from "@/components/Technology"
+import Projects from "@/components/Projects"
+import Contact from "@/components/Contact"
 import ParticleBackground from "@/components/Particle-moving"
 
 export default function Home() {
